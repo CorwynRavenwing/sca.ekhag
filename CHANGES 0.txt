@@ -1,0 +1,7 @@
+
+* Update events list from last spring !!!
+  - Move from Index page to (new) events page.
+
+* Put either everything or nothing, that is in the navigation bar, also in the home page text.
+	Right now it's kind of half-and-half.
+
